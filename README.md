@@ -1,4 +1,5 @@
-# MATA54
-Trabalhos relacionados a disciplina Estrutura de Dados e Algoritmos II
-Semestre: 2018.2
-Professor: Flávio Assis.
+# MATA54 - Estrutura de Dados e Algoritmos II
+*Trabalhos e atividades relacionados a disciplina*  
+
+**Semestre:** 2018.2  
+**Professor:** Flávio Assis
